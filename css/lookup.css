@@ -1,0 +1,23 @@
+.wrapper {
+    width: 100%;
+    max-width: 900px;
+    margin: 2.5em auto;
+  }
+
+  #image {
+    width: 25rem;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: #ffffff;
+    border-width: 10px;
+  }
+
+  #contentDiv {
+    width: 100%;
+    max-width: 900px;
+    margin: 2.5em auto;
+  }
+
+  #contentTitle {
+
+  }
